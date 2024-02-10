@@ -10,7 +10,8 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ ![image](https://github.com/Sattorov-Ahrorjon/Sattorov-Ahrorjon/assets/99157561/5b9beedb-5b17-4b74-9bb8-de8cd22503f8)
+ Now I work in **ZERODEV** company
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
