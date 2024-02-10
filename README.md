@@ -31,10 +31,10 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sattorov-Ahrorjon)](https://github.com/Sattorov-Ahrorjon/github-readme-stats)
+<h2 align="center">⚡ Stats ⚡</h2
 
 <br>
 
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sattorov-Ahrorjon&layout=compact)](https://github.com/Sattorov-Ahrorjon/github-readme-stats)
+</div>
