@@ -34,7 +34,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sattorov-Ahrorjon&langs_count=8)](https://github.com/Sattorov-Ahrorjon/github-readme-stats)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sattorov-Ahrorjon&langs_count=8)(https://github.com/Sattorov-Ahrorjon/github-readme-stats)
   <img width=390 src="https://github-readme-streak-stats-Sattorov-Ahrorjon.vercel.app/?user=Sattorov-Ahrorjon&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-Sattorov-Ahrorjon.vercel.app/api?username=Sattorov-Ahrorjon&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
