@@ -32,7 +32,6 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sattorov-Ahrorjon&langs_count=8)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sattorov-Ahrorjon)](https://github.com/Sattorov-Ahrorjon/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sattorov-Ahrorjon&layout=compact)](https://github.com/Sattorov-Ahrorjon/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sattorov-Ahrorjon)(https://github.com/Sattorov-Ahrorjon/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sattorov-Ahrorjon&layout=compact)(https://github.com/Sattorov-Ahrorjon/github-readme-stats)
