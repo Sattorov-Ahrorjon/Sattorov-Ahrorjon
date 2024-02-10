@@ -16,14 +16,17 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div style="display:flex;gap:30px">
+    
     <div>
         
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sattorov-Ahrorjon&layout=compact&langs_count=10)
     </div>
+    
     <div>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sattorov-Ahrorjon&show_icons=true&count_private=true)
     </div>
+    
 </div>
 
 <br>
