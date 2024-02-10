@@ -33,6 +33,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sattorov-Ahrorjon&langs_count=8)
 <div align=center>
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sattorov-Ahrorjon&langs_count=8)
   <img width=390 src="https://github-readme-streak-stats-Sattorov-Ahrorjon.vercel.app/?user=Sattorov-Ahrorjon&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
