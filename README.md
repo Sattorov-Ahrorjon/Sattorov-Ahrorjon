@@ -1,7 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sattorov-Ahrorjon.Sattorov-Ahrorjon" />
-
-<br>
-<br>
 <br>
 
 <h1 align="center">
@@ -27,6 +24,10 @@
 
 <h2 align="center">⚡ Stats ⚡</h2
 <br>
+<div align="center">
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sattorov-Ahrorjon&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sattorov-Ahrorjon&show_icons=true&count_private=true)
+
+</div>
