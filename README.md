@@ -10,7 +10,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,postgresql,github,git,cpp,c" /><br>
     <br>
-    <img src="https://skillicons.dev/icons?i=django,drf,flask,fastapi,html,vscode" />
+    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,html,vscode" />
 </div>
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
