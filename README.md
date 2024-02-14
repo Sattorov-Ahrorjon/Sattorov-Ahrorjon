@@ -8,9 +8,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,postgresql,flask,fastapi,cpp,c" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,postgresql,git,cpp,c" /><br>
     <br>
-    <img src="https://skillicons.dev/icons?i=html,github,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=flask,fastapi,html,github,vscode" />
 </div>
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
