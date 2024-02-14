@@ -11,6 +11,8 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,postgresql,github,git,cpp,c" /><br>
     <br>
     <img src="https://skillicons.dev/icons?i=django,flask,fastapi,html,vscode" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=django-orm,sqlalcemy" />
 </div>
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
