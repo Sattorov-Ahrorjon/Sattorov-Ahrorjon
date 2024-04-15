@@ -4,7 +4,7 @@
         src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahrorjon!;+I+am+a+backend+developer;+from+Uzbekistan+🇺🇿;" />
 </h1>
 <br>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<!-- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,postgresql,github,git,cpp,c" /><br>
@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=django-orm,sqlalcemy" />
 </div>
 
-<br>
+<br> -->
 
 <h2 align="center">Languages and Tools:</h2>
 <br>
