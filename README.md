@@ -3,7 +3,6 @@
     <img 
         src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahrorjon!;+I+am+a+backend+developer;+from+Uzbekistan+🇺🇿;" />
 </h1>
-<br>
 
 <h2 align="center">Languages and Tools:</h2>
 <br>
