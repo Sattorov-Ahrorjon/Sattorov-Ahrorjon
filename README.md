@@ -28,8 +28,6 @@ I build scalable web applications, REST APIs, Telegram Web Apps, and modern user
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55" height="55" alt="Redis"/>
   &nbsp;&nbsp;
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/1200px-SQLAlchemy.svg.png" width="55" height="55" alt="SQLAlchemy"/>
 </p>
 
 ---
@@ -158,8 +156,8 @@ Fast food delivery platform connecting users with local restaurants.
 # 📫 Connect With Me
 
 * GitHub: https://github.com/Sattorov-Ahrorjon
-* Telegram: https://t.me/
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Telegram: https://t.me/Sattorov_Ahror
+* Email: [your-email@example.com](sattorov.ahu@gmail.com)
 
 ---
 
