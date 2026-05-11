@@ -157,7 +157,7 @@ Fast food delivery platform connecting users with local restaurants.
 
 * GitHub: https://github.com/Sattorov-Ahrorjon
 * Telegram: https://t.me/Sattorov_Ahror
-* Email: [your-email@example.com](sattorov.ahu@gmail.com)
+* Email: [sattorov.ahu@gmail.com](sattorov.ahu@gmail.com)
 
 ---
 
